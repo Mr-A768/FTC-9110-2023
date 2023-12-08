@@ -8,4 +8,4 @@ Below is a list of some additional resources that were useful while creating thi
 * [FTC Team 9103 2022 Robot Code](https://github.com/uhs3939/SkyStone/blob/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opencvSkystoneDetector.java)
 * [OpenCV Skystone Detector](https://github.com/uhs3939/SkyStone/blob/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opencvSkystoneDetector.java)
 
-*Note: This project will not work as-is, as it lacks the [official FTC framework](https://github.com/FIRST-Tech-Challenge/FtcRobotController). This is intended for reference use only.*
+*Note: This project will not work as-is, as it lacks the [official FTC framework](https://github.com/FIRST-Tech-Challenge/FtcRobotController) as well as the external application dependancies. This is intended for reference use only.*
